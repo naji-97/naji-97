@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Naji Ali
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
--My Portfolio: https://full-stack-portfolio-mauve.vercel.app
-- 🔭 I’m currently working on https://github.com/naji-97/To-Do-list.git
-- 🌱 I’m currently learning JavaScript/react
+- 🔭 My Portfolio: https://full-stack-portfolio-mauve.vercel.app
 - 👯 I’m looking to collaborate on a open project
 - 📫 How to reach me: elbairabennaji@gmai.com
 - ⚡ Fun fact:  history and programming are my things.
